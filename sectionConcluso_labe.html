@@ -1,0 +1,451 @@
+<h1 data-label="conclusuxe3o" class="ltx_title_section">Conclusão </h1><div>Neste trabalho foi realizado o estado da arte do cálculo à fadiga em
+engrenagens cilíndricas, destacando 4 formas na literatura cientifica:
+i) testes experimentais, mas, um dos pontos negativos é o custo para
+fabricar protótipos físicos para ensaios, além de que os mesmos têm que
+ser reproduzidos numa escala bem maior ao elemento real para minimizar
+os erros no posicionamento de sensores e coleta de dados; ii) análise
+computacional, principalmente destacam-se o ANSYS e ABAQUS, mas os
+mesmos apresentam pontos negativos em relação a custos com processadores
+computacionais para obter resultados preciso e rápidos, custo para
+aquisição do software, além disso, embora tenham ocorrido muitas
+melhorias nas suas versões para a modelagem 3D de um elemento, ainda não
+são tão amigáveis quando comparado a outros programas específicos de
+CAD, tais como o Solid Edge; iii) modelagem analítica usando a norma ISO
+6336, mas, um dos pontos negativos é que dita norma considera apenas a
+carga tangencial nos seus cálculos, fato que obriga à mesma ser
+conservadora nos seus resultados, outro inconveniente é não estar
+difundida no mundo acadêmico a sua nova versão de 2019, além de
+apresentar um custo relativamente alto para sua aquisição; iv) modelagem
+analítica usando a norma AGMA 2101 para sistema internacional,
+apresenta-se como a mais rápida e fácil de ser usada para cálculos à
+fadiga de tensão à flexão e contato, além de ser mais divulgada nas
+pesquisas científicas, considerar nos seus cálculos as cargas tangencial
+e radial, ter possibilidade de aquisição da mesma a um valor bem baixo
+para fins acadêmicos, e mesmo se adquirida comercialmente a mesma é 60%
+mais barata que a norma ISO. Um ponto negativo da norma AGMA é que não
+considera nos seus cálculos um fator para avaliar o impacto do alivio no
+adendo da ponta do dente de uma engrenagem.</div><div>Destaca-se também neste trabalho que a aparição de uma possível fratura
+ao contato apresenta-se depois de 10<sup>7</sup> ciclos a 1,5 mm
+aproximadamente de profundidade em relação à superfície do flanco do
+dente de engrenagem, considerando que a engrenagem possui algum tipo de
+tratamento térmico na sua superfície. Outro dado importante que pode
+minimizar o tempo de processamento para uma FEA é a confirmação de que
+analisando apenas a geometria de 3 dentes de uma engrenagem,
+independentemente do número total de dentes, apresenta resultados
+confiáveis. Também, o estado da arte aponta que um alivio no adendo da
+ponta do dente da engrenagem proporciona um engrenamento mais leve além
+de diminuir a tensão ao contato, mas, se esse alivio não for calculado
+pode influenciar negativamente no aumento da tensão à flexão. Além
+disso, normalmente na literatura acadêmica considera-se que o cordão
+raiz é o produto do módulo vezes constante de 0,3 ou 0,35, já nos
+estudos recentes são usados para o cordão raiz, a multiplicação do
+módulo pela constante 0,38, dessa forma há maior dissipação da tensão no
+filete do dente.</div><div>Outro aporte deste trabalho é o detalhamento da norma AGMA 2101-D04 e a
+inclusão de tabelas e gráficos da literatura cientifica, proporcionando
+assim, um protocolo para seu uso e modelagem analítica de qualquer tipo
+de engrenagem cilíndrica de dentes retos. Além disso é disponibilizada
+uma planilha com todos os equacionamentos, fácil de ser descarregada.
+Isto possibilitará que em futuros trabalhos possa ser desenvolvido dito
+equacionamento em códigos de linguagem de programação como o Python,
+fortalecendo uma das vulnerabilidades que possui o uso de uma planilha
+Excel, por exemplo.</div><div>No item concepção e desenvolvimento deste trabalho, foram usados dados
+reais de um equipamento conhecido pelo autor. Foi modelada a forma
+analítica da engrenagem usando a norma AGMA 2101-D04 (2016) e
+comparou-se com resultados obtidos no software Solid Edge que na sua
+biblioteca indica usar a norma ISO 6336. Comprovou-se que há divergência
+nos resultados obtidos e de uma forma geral os resultados do Solid Edge
+são mais conservadores que a norma AGMA, mesmo cenário relatado no
+estado da arte quando comparadas as normas AGMA e ISO.</div><div>Finalmente, pretende-se em futuros trabalhos automatizar a norma AGMA
+2101-D04 criando códigos de programação no Python. Além disso,
+pretende-se convidar outros pesquisadores para analisar os dados deste
+trabalho no ANSYS.</div><div>Referências Bibliográficas</div><div>@article{AGMA 2101-D04_2016, place={Virginia}, title={ANSI/AGMA
+2101-D04}, abstractNote={This standard specifies a method for rating
+the pitting resistance and bending strength of spur and helical involute
+gear pairs. A detailed discussion of factors influencing gear survival
+and calculation methods are provided.}, journal={Fundamental rating
+factors and calculation methods for involute spur and helical gears
+teeth}, author={AGMA 2101-D04, AGMA}, year={2016} }</div><div>@book{Budynas_Nisbett_2014, place={New York}, edition={10},
+title={Shigley’s Mechanical Engineering Design},
+ISBN={978-0073398204}, abstractNote={Shigley’s Mechanical Engineering
+Design is intended for students beginning the study of mechanical
+engineering design. Students will find that the text inherently directs
+them into familiarity with both the basics of design decisions and the
+standards of industrial components. It combines the straightforward
+focus on fundamentals that instructors have come to expect, with a
+modern emphasis on design and new applications. This edition maintains
+the well-designed approach that has made this book the standard in
+machine design for nearly 50 years. McGraw-Hill’s Connect, is also
+available as an optional, add on item. Connect is the only integrated
+learning system that empowers students by continuously adapting to
+deliver precisely what they need, when they need it, how they need it,
+so that class time is more effective. Connect allows the professor to
+assign homework, quizzes, and tests easily and automatically grades and
+records the scores of the student’s work. Problems are randomized to
+prevent sharing of answers an may also have a “multi-step solution”
+which helps move the students’ learning along if they experience
+difficulty.}, publisher={McGraw-Hill Education}, author={Budynas,
+Richard G. and Nisbett, J. Keith}, editor={McGraw-Hill},
+year={2014} }</div><div>@article{DIN_1968, place={Germany}, title={DIN 6885 A},
+journal={Drive Type Fastenings without Taper Action; Parallel Keys,
+Keyways, Deep Pattern}, publisher={Deutsches Institut für Normung},
+author={DIN, 6885 A}, year={1968} }</div><div>@article{Frechilla_Garcia_Frechilla_2016, title={Determination of
+the bending strength geometry factor J for the calculation of stress in
+parallel-axis gears as a function of the reference correction and slope
+angle of the gear tooth}, volume={3}, note={Preciso estudar},
+number={1}, journal={Int. J. Mech. Eng. Autom}, author={Frechilla,
+Alonso Noelia and Garcia, Martin Roberto José and Frechilla, Fernández
+Pablo}, year={2016}, pages={27–33} }</div><div>@inproceedings{Geren_Uzay_2016, title={A translation technique:
+Dimensionless ratings and conversion factors between ISO and AGMA gear
+standards}, volume={11}, ISBN={9780791850657},
+DOI={10.1115/IMECE201665123}, abstractNote={Copyright © 2016 by ASME.
+ISO and AGMA Standards are the most commonly used accurate approaches
+while designing a gear. But the most important gear design outputs that
+are module (m) and face width (b) are obtained from both of the
+approaches always differ from each other even under the same input
+parameters. Therefore, gear designers require detailed knowledge on the
+relative comparison of design outputs including cost. And a translation
+technique using conversion factors in between the standards are demanded
+as a stated need in the literature. Hence, this paper firstly obtains
+dimensionless gear rating numbers (GRi) to rate the design results of
+spur gears determined from both ISO 6336 and ANSI/AGMA 2101-D04
+Standards, and then derives correlation equations to generate
+dimensionless conversion factors (CFs) to convert the design results
+obtained from ISO to AGMA. The CFs allow designers to move from one
+standard to another very easily. This enables engineering students and
+designers to meet the ever changing needs of global market.}, note={1
+citações em periódicos da áreaPeriódico com: nenhum indicador10/10},
+booktitle={ASME International Mechanical Engineering Congress and
+Exposition, Proceedings (IMECE)}, author={Geren, N. and Uzay, Ç.},
+year={2016} }</div><div>@inproceedings{Goanta_Dumitrache_2017, title={New Siemens
+applications for designing bevel gears}, volume={227},
+ISBN={1757-899X}, note={Modela engrenagem cônica no Solid Edge},
+number={1}, booktitle={IOP Conference Series: Materials Science and
+Engineering}, publisher={IOP Publishing}, author={Goanta, A M and
+Dumitrache, P}, year={2017}, pages={12049} }</div><div>@article{Hwang_Lee_Lee_Han_Lee_2013, title={Contact stress
+analysis for a pair of mating gears}, volume={57},
+ISSN={0895-7177},
+url={https://www.sciencedirect.com/science/article/pii/S0895717711003967},
+DOI={10.1016/J.MCM.2011.06.055}, abstractNote={This paper presents a
+contact stress analysis for a pair of mating gears during rotation.
+Contact stress analyses for spur and helical gears are performed between
+two gear teeth at different contact positions during rotation. Two
+examples of spur and helical gears are presented to investigate the
+respective variations of the contact stress in a pair of mating gears
+with the contact position. The variation of the contact stress during
+rotation is compared with the contact stress at the lowest point of
+single-tooth contact (LPSTC) and the AGMA (American Gear Manufacturers
+Association) equation for the contact stress. In this study, we can see
+that the gear design that considers the contact stress in a pair of
+mating gears is more severe than that of the AGMA standard.}, note={16
+citações da áreaPeriódico sem indicador9/9}, number={1–2},
+journal={Mathematical and Computer Modelling}, publisher={Pergamon},
+author={Hwang, Seok-Chul and Lee, Jin-Hwan and Lee, Dong-Hyung and Han,
+Seung-Ho and Lee, Kwon-Hee}, year={2013}, month={Jan},
+pages={40–49} }</div><div>@article{ISO 6336-2_2006, title={Calculation of load capacity of spur
+and helical gears: Calculation of surface durability (pitting)},
+ISSN={0743-6858}, journal={International Organization for
+Standardization}, author={ISO 6336-2, ISO}, year={2006},
+pages={33} }</div><div>@article{ISO 6336-3_2006, title={Calculation of load capacity of spur
+and helical gears: Calculation of tooth bending strength},
+ISSN={0743-6858}, journal={International Organization for
+Standardization}, author={ISO 6336-3, ISO}, year={2006},
+pages={42} }</div><div>@book{Juvinall_Marshek_2011, place={Michigan}, edition={5},
+title={Fundamentals of machine component design},
+ISBN={978-1118012895}, abstractNote={The latest edition of
+Juvinall/Marshek′s Fundamentals of Machine Component Design focuses on
+sound problem solving strategies and skills needed to navigate through
+large amounts of information. Revisions in the text include coverage of
+Fatigue in addition to a continued concentration on the fundamentals of
+component design. Several other new features include new learning
+objectives added at the beginning of all chapters; updated
+end–of–chapter problems, the elimination of weak problems and addition
+of new problems; updated applications for currency and relevance and new
+ones where appropriate; new system analysis problems and examples;
+improved sections dealing with Fatigue; expanded coverage of failure
+theory; and updated references.}, publisher={John Wiley &amp; Sons},
+author={Juvinall, Robert C. and Marshek, Kurt M.}, editor={John Wiley
+&amp; Sons}, year={2011} }</div><div>@inbook{Kumar_Patil_2017, title={Free vibration and connecting bolt
+constraint-based FEA analysis of heavy vehicle medium duty transmission
+gearbox housing made from AISI 4130 alloy material}, note={Para FEA
+usa o Ansys 14.5. e o Solid Edge foi usado para modelagem 3D do
+elemento.}, booktitle={Mathematics Applied to Engineering},
+publisher={Elsevier}, author={Kumar, Ashwani and Patil, Pravin P},
+year={2017}, pages={133–146} }</div><div>@article{Lisle_Shaw_Frazer_2017, title={External spur gear root
+bending stress: A comparison of ISO 6336:2006, AGMA 2101-D04, ANSYS
+finite element analysis and strain gauge techniques}, volume={111},
+ISSN={0094114X},
+url={https://www.engineeringvillage.com/share/document.url?mid=cpx_M1af45c6f159f007d514M7b7710178163171&amp;database=cpx},
+DOI={10.1016/j.mechmachtheory.2017.01.006}, abstractNote={The
+International Organisation for Standardisation ISO 6336:2006 and the
+American Gear Manufacturers Association AGMA 2101-D04 are the two most
+predominant empirically based analytical gear stress analysis methods
+for establishing contact and root bending stress in involute spur and
+helical gears. Although based on the same fundamental principles, they
+have evolved to such an extent that, for various reasons, they are not
+necessarily in agreement. The use of commercial universal numerical
+finite element software has become an increasingly popular alternative
+for gear stress analysis and this research compares the root bending
+stresses in external spur gears established using ISO 6336:2006, AGMA
+2101-D04 and numerical finite element analysis (ANSYS) with experimental
+strain gauge validation. © 2017 International Federation for the
+Promotion of Mechanism and Machine Science}, note={20 citações em
+periódicos da áreaPeriódico com:SNIP 2,67SJR 1,317IF 3,5351/9},
+journal={Mechanism and Machine Theory}, publisher={Elsevier Ltd},
+author={Lisle, Timothy J. and Shaw, Brian A. and Frazer, Robert C.},
+year={2017}, month={May}, pages={1–9} }</div><div>@article{Maper_Karuppanan_Patil_2019, title={Analysis and
+formulation of spur gear stresses with different tip modifications},
+volume={26}, ISSN={2227-5223},
+url={https://doi.org/10.1007/s11771-019-4180-x},
+DOI={10.1007/s11771-019-4180-x}, abstractNote={Spur gears are widely
+used in the power transmission mechanism of several machines. Due to the
+transmitted torque, spur gears experience high stresses which could
+cause gear tooth failure by surface pitting or root fracture. Tip relief
+and other gear profile modification have been considered for reducing
+the induced stresses in the gear tooth. In this work, the influence of
+tip relief on stresses on a pair of identical spur gear was analyzed
+using commercial FEA software ANSYS, and formulae for estimating contact
+and bending stresses were derived. Three cases of gear sets were
+analyzed; a non-modified pair and another two sets with linear and
+parabolic tip relief profiles. The non-modified gear set frictionless
+contact stress was validated against the calculated AGMA pitting
+resistance, Hertzian contact stress and a reported contact stress value
+in the literature. The four methods agreed well with each other.
+Similarly, bending stress was also compared with the AGMA bending
+strength and Lewis bending stress for validation. Then, friction
+coefficient was varied from 0.0 to 0.3 with increment of 0.1. The gear
+contact stress increased up to 11% relative to the frictionless case,
+whereas bending stress decreased by 6%. Linear tip relief modification
+was carried out for increasing normalised tip relief values of 0.25 to
+1.0 with increment of 0.25. The gear frictionless contact and bending
+stresses decreased by a maximum of 4% and 2%, respectively. Frictional
+contact stress increased by up to 7.1% and the bending stress is almost
+identical with the frictionless case. Parabolic tip relief was also
+carried out with similar normalised tip relief values. Frictionless
+contact stress decreased by 5% while frictional contact stress
+increased by up to 11.5% and the bending stress is also almost
+identical with the frictionless case. Finally, four formulae were
+introduced for estimating the contact and bending stresses for a tip
+modified spur gear.}, note={Nenhuma citaçãoPeriódico com:SNIP 0,71SJR
+0,396IF 0,9737/9}, number={9}, journal={Journal of Central South
+University}, author={Maper, A and Karuppanan, S and Patil, S S},
+year={2019}, pages={2368–2378} }</div><div>@article{Marques_Martins_Seabra_2017, title={Analytical load
+sharing and mesh stiffness model for spur/helical and internal/external
+gears – Towards constant mesh stiffness gear design}, volume={113},
+ISSN={0094-114X},
+url={https://www.sciencedirect.com/science/article/pii/S0094114X16306486},
+DOI={10.1016/J.MECHMACHTHEORY.2017.03.007}, abstractNote={In previous
+works the authors presented two load distribution models for gears. One
+of the models was based on the rigid tooth assumption and the more
+complex of the two took advantage of influence coefficients obtained
+from a FEM model to find the load distribution. In this work an
+analytical model relying on the ISO 6336 maximum teeth stiffness and a
+parabolic single tooth stiffness per unit of single line length was
+developed. This load distribution model relies on an original
+description of the contact line length based on Heaviside functions to
+find the gear mesh stiffness. The proposed model is of straight forward
+implementation, very little computational cost and yields promising
+results. The concept of constant mesh stiffness gear design is also
+introduced.}, note={12 citações em periódicos da áreaPeriódico
+com:SNIP 2,67SJR 1,317IF 3,5352/9}, journal={Mechanism and Machine
+Theory}, publisher={Pergamon}, author={Marques, Pedro and Martins,
+Ramiro and Seabra, Jorge}, year={2017}, month={Jul},
+pages={126–140} }</div><div>@book{MatWeb_2020, place={Acesso em: 2020}, title={Material
+Property Data}, publisher={Disponível em: http://www. matweb. com},
+author={MatWeb}, year={2020} }</div><div>@book{Mott_2013, place={Londres}, edition={5}, title={Machine
+elements in mechanical design}, ISBN={978-0135077931},
+abstractNote={This fully updated text provides the concepts,
+procedures, data, and analysis techniques needed to design and integrate
+machine elements into mechanical devices and systems. Focused on
+practical, safe, and efficient design, MACHINE ELEMENTS IN MECHANICAL
+DESIGN, 5/e emphasizes proven approaches and the use of readily
+available materials. Readers learn an integrated approach that considers
+the entire system while designing each element. The first six chapters
+guide students through the transition to design and expand on their
+understanding of designing for different loads. Next, the text
+thoroughly covers machine elements involved in power transmission
+equipment, from drives to rolling contact bearings. Finally, it covers
+many additional machine elements, including springs, electric motors,
+clutches, brakes, linear motion devices, and fasteers, plus issues
+associated with structural design, connections, and welding. Wherever
+practical, design equations, data, and procedures are specified.
+Problems offer realistic practice opportunities; throughout, the authors
+demonstrate the use of spreadsheets and included software to simplify
+complex procedures. Updated web links and references promote further
+exploration.}, publisher={Pearson}, author={Mott, Robert L.},
+editor={Pearson}, year={2013} }</div><div>@article{Nuñez_Borsato_2018, title={OntoProg: An ontology-based
+model for implementing Prognostics Health Management in mechanical
+machines}, volume={38}, ISSN={1474-0346},
+url={https://www.sciencedirect.com/science/article/pii/S1474034617306080},
+DOI={10.1016/J.AEI.2018.10.006}, abstractNote={Trends in Prognostics
+Health Management (PHM) have been introduced into mechanical items of
+manufacturing systems to predict Remaining Useful Life (RUL). PHM as an
+estimate of the RUL allows Condition-based Maintenance (CBM) before a
+functional failure occurs, avoiding corrective maintenance that
+generates unnecessary costs on production lines. An important factor for
+the implementation of PHM is the correct data collection for monitoring
+a machine’s health, in order to evaluate its reliability. Data
+collection, besides providing information about the state of degradation
+of the machine, also assists in the analysis of failures for intelligent
+interventions. Thus, the present work proposes the construction of an
+ontological model for future applications such as expert system in the
+support in the correct decision-making, besides assisting in the
+implementation of the PHM in several manufacturing scenarios, to be used
+in the future by web semantics tools focused on intelligent
+manufacturing, standardizing its concepts, terms, and the form of
+collection and processing of data. The methodological approach Design
+Science Research (DSR) is used to guide the development of this study.
+The model construction is achieved using the ontology development 101
+procedure. The main result is the creation of the ontological model
+called OntoProg, which presents: a generic ontology addressing by
+international standards, capable of being used in several types of
+mechanical machines, of different types of manufacturing, the
+possibility of storing the knowledge contained in events of real
+activities that allow through consultations in SPARQL for
+decision-making which enable timely interventions of maintenance in the
+equipment of a real industry. The limitation of the work is that said
+model can be implemented only by specialists who have knowledge in
+ontology.}, journal={Advanced Engineering Informatics},
+publisher={Elsevier}, author={Nuñez, David Lira and Borsato,
+Milton}, year={2018}, month={Oct}, pages={746–759} }</div><div>@article{Octrue_Nicolle_Genevier_Lefebvre_2015, title={A New
+Experimental Approach to Test Open Gears for Winch Drums},
+volume={133}, ISSN={1877-7058},
+url={https://www.sciencedirect.com/science/article/pii/S1877705815045762},
+DOI={10.1016/J.PROENG.2015.12.657}, abstractNote={In several
+applications like hoisting equipment, cranes, open gears are used to
+transmit power at rather low speeds (tangential velocity &lt;
+1m/s) with lubrication by grease. In consequence those applications have
+particularities in term of lubricating conditions and friction involved,
+pairing of material between pinion and gear wheel, lubricant supply,
+loading cycles and behaviour of materials with significant contact
+pressure due to lower number of cycles. The comparison of proofed old
+rating methods (HENRIOT….) with ISO 6336 has shown that ISO is
+very conservative for through hardened steels gear wheels running with
+case hardened pinion specifically in the range of limited life. This has
+emphasis the need to develop experimental tests, in representative
+conditions. In order to assess new values of allowable contact-pressure
+stress numbers, the authors present the concept and the realization of a
+new test bench in order to satisfy those requirements with the
+associated procedures of calibration and testing. Analysis of
+experimental results and metallurgical analysis of cold working of tooth
+flanks are given. Fatigue result test are then compared to ISO and AGMA
+gear ratting method predictions.}, note={1 citação na áreaPeriódico
+com:SNIP 0,784SJR 0,277IF não tem8/9}, journal={Procedia
+Engineering}, publisher={Elsevier}, author={Octrue, M. and Nicolle,
+A. and Genevier, R. and Lefebvre, C.}, year={2015}, month={Jan},
+pages={192–201} }</div><div>@article{Patil_Kumar_2017, title={Dynamic structural and thermal
+characteristics analysis of oil-lubricated multi-speed transmission
+gearbox: variation of load, rotational speed and convection heat
+transfer}, volume={41}, ISSN={2228-6187}, note={Para a modelagem
+de uma engrenagem usa o Solid Edge}, number={4}, journal={Iranian
+Journal of Science and Technology, Transactions of Mechanical
+Engineering}, publisher={Springer}, author={Patil, Pravin P and
+Kumar, Ashwani}, year={2017}, pages={281–291} }</div><div>@inproceedings{Pu_Wang_Wu_San_Chen_2019, title={Modeling and
+Dynamic Simulation of TI Worm Drivebased on GearTrax},
+ISBN={1728114543}, note={Além de outros programas, usa o solid edge
+para representar engrenagens.}, booktitle={2019 IEEE 8th Data Driven
+Control and Learning Systems Conference (DDCLS)}, publisher={IEEE},
+author={Pu, Jianghua and Wang, Xuejun and Wu, Peng and San, Hongjun and
+Chen, Mingfang}, year={2019}, pages={1355–1359} }</div><div>@book{Solid Edge_2020, place={Acesso em: 2020}, title={Solid Edge
+for Educators.}, publisher={Disponível em:
+https://www.plm.automation.siemens.com/global/pt/our-story/partners/academic/engineering-curriculum.html},
+author={Solid Edge, 2020}, year={2020} }</div><div>@article{Wei_Zhou_Liu_Zhu_Wang_Deng_2019, title={Modeling of
+contact fatigue damage behavior of a wind turbine carburized gear
+considering its mechanical properties and microstructure gradients},
+volume={156}, ISSN={0020-7403},
+url={https://www.sciencedirect.com/science/article/pii/S0020740318338712},
+DOI={10.1016/J.IJMECSCI.2019.04.004}, abstractNote={Carburized gears
+are commonly used in heavy-duty machines such as wind turbines, ships
+and high-speed rails. The gradient characteristics of mechanical
+properties and microstructure from the case to the core and the complex
+subsurface stress state in service make it very challenging to
+understand the contact fatigue performance of the carburized gears. In
+this study, a numerical model considering the effects of mechanical
+properties and microstructure gradients is developed to investigate the
+contact fatigue damage behavior of a wind turbine carburized gear. The
+hardness gradient in the case depth is modelled using Thomas empirical
+equation. The microstructure gradient is considered in terms of the
+grain size variation adopting the technique of Voronoi tessellation. The
+damage-coupled elastic-plastic material constitutive relations are
+developed to capture the intergranular mechanical response and the
+progressive fatigue damage under repeated gear meshing. The results
+indicate that the shear stress reversal is not uniformly distributed
+along the grain boundaries of the same depth. The critical subsurface
+depth of crack initiation and the fatigue damage evolution obtained from
+the calculation model compare well to the experimental and numerical
+results readily available in literature. With the developed framework,
+the influences of normal load and case carburization on the fatigue
+damage behavior of the carburized gear are also investigated and
+discussed in detail.}, note={4 citações em periódicos da áreaPeriódico
+com:SNIP 1,86SJR 1,471IF 1,1344/9}, journal={International Journal of
+Mechanical Sciences}, publisher={Pergamon}, author={Wei, Peitang and
+Zhou, Hao and Liu, Huaiju and Zhu, Caichao and Wang, Wei and Deng,
+Guanyu}, year={2019}, month={Jun}, pages={283–296} }</div><div>@article{Wen_Du_Zhai_2018, title={A new analytical model to
+calculate the maximum tooth root stress and critical section location of
+spur gear}, volume={128}, ISSN={0094-114X},
+url={https://www.sciencedirect.com/science/article/pii/S0094114X18303549},
+DOI={10.1016/J.MECHMACHTHEORY.2018.05.012}, abstractNote={An accurate
+calculation of the maximum tooth root stress (TRS) and critical section
+location (CSL) provides a basis for predicting and improving gear
+performance. The irregular profile represented by the implicit function
+may cause the calculation to be more complex. In current research,
+finite element methods (FEM model) and experimental test methods (ET
+model) can obtain accurate results but need large computational
+resources and time. The results from ISO 6336:2006 (ISO model) and AGMA
+2101-D04 (AGMA model) are obtained conveniently but sometimes not
+reliable. Therefore, a new analytical model based on the mechanics
+theory with an accurate profile equation is established to calculate the
+maximum TRS and corresponding CSL quickly and accurately by solving the
+extreme value. Finally, the results of the spur gear in five cases with
+different parameters are obtained and compared to those of the FEM, ISO
+and AGMA models. It is shown that the results of the new model are in
+agreement with those of the FEM model, even under different parametric
+conditions.}, note={2 citações em periódicos da áreaPeriódico com:SNIP
+2,67SJR 1,32IF 3,543/9}, journal={Mechanism and Machine Theory},
+publisher={Pergamon}, author={Wen, Qi and Du, Qungui and Zhai,
+Xiaochen}, year={2018}, month={Oct}, pages={275–286} }</div><div>@article{Wen_Du_Zhai_2019, title={An analytical method for
+calculating the tooth surface contact stress of spur gears with tip
+relief}, volume={151}, ISSN={0020-7403},
+url={https://www.sciencedirect.com/science/article/pii/S0020740318317910},
+DOI={10.1016/J.IJMECSCI.2018.11.007}, abstractNote={Spur gears with
+tip relief can effectively improve transmission performance, and
+accurate determination of their tooth surface contact stress (TSCS) can
+provide guidance for structure optimization and performance evaluation.
+However, since the tip-relieved gear profile has not been accurately
+approximated with a quadratic parabola, the TSCS cannot be calculated
+using the cylindrical contact model of the Hertzian contact theory
+(Hertz model). Therefore, a new more accurate analytical model for
+calculating the non-Hertzian TSCS of tip-relieved gears is proposed in
+this paper. This model is established based on the accurate tooth
+profile equations represented by the parameter equations (new model).
+The solution of the model with an implicit function and a singular
+integral is also studied. Finally, the TSCS of two gear pairs with and
+without tip relief are compared for different parameters under different
+loads according to the new model, the finite element method (FEM model)
+and Hertz model. The results show that the tip relief will affect the
+maximum TSCS, location and size of the contact area, whereas the Hertz
+model cannot quantify these effects. However, the new model, which is
+validated using the FEM model, can provide accurate and reliable
+results.}, note={6 cuitações em periódicos da áreaPeriódico com:SNIP
+1,86SJR 1,471IF 1,1345/9}, journal={International Journal of
+Mechanical Sciences}, publisher={Pergamon}, author={Wen, Qi and Du,
+Qungui and Zhai, Xiaochen}, year={2019}, month={Feb},
+pages={170–180} }</div><div>@article{Zhan_Fard_Jazar_2015, title={A quasi-static FEM for
+estimating gear load capacity}, volume={75}, ISSN={0263-2241},
+url={https://www.sciencedirect.com/science/article/pii/S0263224115003826},
+DOI={10.1016/J.MEASUREMENT.2015.07.036}, abstractNote={Measurement of
+time-varying load capacity of gears is a vital process prior to
+manufacturing. There are two ways to evaluate the strength of gears, the
+analytical method proposed in AGMA and ISO standards and the finite
+element method (FEM). However, owing to the complex geometries and the
+use of empirical values, analytical model is not precise to perform the
+exact calculation. The current dynamic FEM and static FEM also have some
+disadvantages may cause the analysis of time-vary load capacity
+difficult. Therefore, the first aim of this study is to develop a new
+quasi-static FEM based on ANSYS Workbench to conduct the analysis of
+time-varying load capacity of gear system. The second aim is to compare
+results of the traditional method based on AGMA equations and
+quasi-static FEM. The effects of tip relief are also analysed using this
+new method.}, note={8 citações na áreaPeriódico com:SNI 1,746SJR
+0,724IF 2,7916/9}, journal={Measurement}, publisher={Elsevier},
+author={Zhan, Jiaxing and Fard, Mohammad and Jazar, Reza},
+year={2015}, month={Nov}, pages={40–49} }</div>
