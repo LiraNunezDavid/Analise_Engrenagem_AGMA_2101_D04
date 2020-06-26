@@ -89,6 +89,7 @@ longtable_ll_toprule13.html
 Onde__n_L__o.html
 figures/Fig12
 Outra_forma_de_encon.html
+figures/Fig13
 subsubsectiontexorpd.html
 vaaovj9meoo.tex
 longtable_ll_toprule14.html
