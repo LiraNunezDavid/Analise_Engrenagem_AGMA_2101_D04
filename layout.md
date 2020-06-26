@@ -52,6 +52,7 @@ figures/image11
 Dependendo_se_a_posi.html
 figures/image12
 A_norma_AGMA_no.html
+ar4tvkqqlog.tex
 longtable_ll_toprule7.html
 Os_valores_a_serem.html
 figures/image13
