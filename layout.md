@@ -39,7 +39,6 @@ hob1hj1gp4o.tex
 Para_encontrar_a_con.html
 figures/Fig3
 beginquote_Fonte_Ada.html
-data/image8/image8.emf
 beginquote_Fonte_Ada1.html
 fvf0oah8qvo.tex
 longtable_ll_toprule6.html
