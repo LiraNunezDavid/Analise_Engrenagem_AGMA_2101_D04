@@ -139,7 +139,6 @@ figures/Fig25
 Figura_26__nmero.html
 figures/Fig26
 Figura_27__nmero.html
-figures/image31
 Os_nmeros_de_tenso.html
 figures/image32
 Para_encontrar_uma_d.html
