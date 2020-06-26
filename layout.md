@@ -80,6 +80,7 @@ subsectiontexorpdfst.html
 ubtoo4se0j8.tex
 longtable_ll_toprule11.html
 Onde__S_H__o.html
+t1er0c4cj1o.tex
 longtable_ll_toprule12.html
 Para_encontrar_o_nme.html
 longtable_ll_toprule13.html
