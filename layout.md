@@ -5,7 +5,6 @@ sectionFundamentao_T.html
 faf8n2jvnvg.html
 das988skrh.tex
 longtable_ll_toprule.html
-Onde__sigma_H__a.html
 longtable_ll_toprule1.html
 Onde__v_1text_e_v_1.html
 figures/image1
