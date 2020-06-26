@@ -133,6 +133,7 @@ Para_Mott_2013_a.html
 c8hfk3hq808.tex
 longtable_ll_toprule19.html
 Os_valores_intermedi.html
+figures/Fig24
 NOTAS__1_Dureza_equi.html
 figures/image29
 Figura_26__nmero.html
