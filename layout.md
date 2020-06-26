@@ -174,7 +174,6 @@ subsectionFator_de_s1.html
 longtable_cccc_topru3.html
 j05bl53iaio.html
 subsectionAnlise_de_.html
-figures/image34
 Na_Figura_31_observa.html
 figures/image35
 Ambos_testes_Figuras.html
