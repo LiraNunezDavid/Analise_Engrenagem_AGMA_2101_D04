@@ -51,6 +51,7 @@ figures/Fig6
 Fonte_Adaptado_de_AG.html
 figures/Fig7
 Dependendo_se_a_posi.html
+figures/Fig8
 A_norma_AGMA_no.html
 ar4tvkqqlog.tex
 longtable_ll_toprule7.html
