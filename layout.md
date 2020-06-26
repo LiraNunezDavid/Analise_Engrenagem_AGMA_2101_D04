@@ -128,6 +128,7 @@ subsectiontexorpdfst1.html
 q5ehit02sa.tex
 longtable_ll_toprule18.html
 Onde__S_F__o.html
+figures/Fig23
 Para_Mott_2013_a.html
 c8hfk3hq808.tex
 longtable_ll_toprule19.html
