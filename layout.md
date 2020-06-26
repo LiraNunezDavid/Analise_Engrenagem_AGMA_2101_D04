@@ -10,6 +10,7 @@ longtable_ll_toprule1.html
 Onde__v_1text_e_v_1.html
 figures/image1
 Fontes_Adaptado_de_B.html
+slrrs6q20to.tex
 longtable_ll_toprule2.html
 Onde__emphW_textsupe.html
 data/image2/image2.emf
