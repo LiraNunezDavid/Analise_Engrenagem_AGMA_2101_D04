@@ -182,6 +182,7 @@ longtable_lll_toprul.html
 Na_Tabela_10_so.html
 longtable_lll_toprul1.html
 Na_Tabela_11_so.html
+figures/Cálculos AGMA2101-D04
 longtable_lll_toprul2.html
 untitled.html
 sectionConcluso_labe.html
