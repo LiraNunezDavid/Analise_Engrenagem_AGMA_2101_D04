@@ -7,7 +7,6 @@ das988skrh.tex
 longtable_ll_toprule.html
 i5rmk0vsrg8.tex
 longtable_ll_toprule1.html
-Onde__v_1text_e_v_1.html
 figures/image1
 Fontes_Adaptado_de_B.html
 slrrs6q20to.tex
