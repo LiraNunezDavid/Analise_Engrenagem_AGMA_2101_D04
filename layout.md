@@ -110,7 +110,6 @@ figures/Fig17
 NOTAS__1_Dureza_no.html
 figures/Fig18
 5_O_emph_textsubscri.html
-figures/image23
 Figura_20__nmero.html
 figures/image24
 subsectionResistenci.html
