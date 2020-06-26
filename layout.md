@@ -70,6 +70,8 @@ phrpdcpkg2.tex
 longtable_ll_toprule10.html
 qbt489o1pdg.tex
 2bubd7i32qg.html
+9veqv1fvad8.tex
+dqsvb3b9q3g.html
 Tambm_pode_ser_encon.html
 figures/image15
 subsectiontexorpdfst.html
