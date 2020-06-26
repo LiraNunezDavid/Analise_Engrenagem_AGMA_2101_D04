@@ -13,7 +13,6 @@ slrrs6q20to.tex
 longtable_ll_toprule2.html
 Onde__emphW_textsupe.html
 mknjelgvpko.html
-figures/Tabelas AGMA
 Para_encontrar_o_fat.html
 data/image3/image3.emf
 Tabela_2__Fator.html
