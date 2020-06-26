@@ -37,7 +37,6 @@ Se_a_largura_da.html
 longtable_ll_toprule5.html
 hob1hj1gp4o.tex
 Para_encontrar_a_con.html
-figures/image7
 beginquote_Fonte_Ada.html
 data/image8/image8.emf
 beginquote_Fonte_Ada1.html
