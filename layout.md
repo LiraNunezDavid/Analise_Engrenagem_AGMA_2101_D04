@@ -56,6 +56,7 @@ A_norma_AGMA_no.html
 ar4tvkqqlog.tex
 longtable_ll_toprule7.html
 Os_valores_a_serem.html
+figures/Fig9
 Segundo_Mott_2013_ca.html
 data/image14/image14.emf
 Fonte_adaptado_de_Mo.html
