@@ -76,6 +76,7 @@ dqsvb3b9q3g.html
 f3lal7bbhfo.tex
 c2eerck1c0o.html
 Tambm_pode_ser_encon.html
+figures/Fig111
 subsectiontexorpdfst.html
 ubtoo4se0j8.tex
 longtable_ll_toprule11.html
