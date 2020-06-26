@@ -123,6 +123,7 @@ figures/image25
 Fonte_Adaptado_de_Mo.html
 figures/image26
 subsectiontexorpdfst1.html
+q5ehit02sa.tex
 longtable_ll_toprule18.html
 Onde__S_F__o.html
 figures/image27
