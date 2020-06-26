@@ -24,6 +24,8 @@ textbfFonte_Adaptado.html
 longtable_ll_toprule3.html
 airtdr4o8i8.tex
 Quando_a_engrenagem_.html
+ngc66blieqg.tex
+ivv9hs5tr5.html
 figures/image6
 As_curvas_podem_ser.html
 longtable_ll_toprule4.html
