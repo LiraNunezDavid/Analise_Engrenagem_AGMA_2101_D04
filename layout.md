@@ -68,6 +68,8 @@ fgalvviu35o.tex
 r36ck6mbd9g.html
 phrpdcpkg2.tex
 longtable_ll_toprule10.html
+qbt489o1pdg.tex
+2bubd7i32qg.html
 Tambm_pode_ser_encon.html
 figures/image15
 subsectiontexorpdfst.html
