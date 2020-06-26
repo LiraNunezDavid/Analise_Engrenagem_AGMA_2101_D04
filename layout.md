@@ -20,6 +20,7 @@ Tabela_2__Fator.html
 tedei8iape8.html
 Tabela_3__Fator.html
 pm6ij2atfng.html
+figures/Fig2
 textbfFonte_Adaptado.html
 longtable_ll_toprule3.html
 airtdr4o8i8.tex
