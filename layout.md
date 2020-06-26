@@ -17,6 +17,7 @@ Para_encontrar_o_fat.html
 Tabela_2__Fator.html
 tedei8iape8.html
 Tabela_3__Fator.html
+pm6ij2atfng.html
 figures/image5
 textbfFonte_Adaptado.html
 longtable_ll_toprule3.html
