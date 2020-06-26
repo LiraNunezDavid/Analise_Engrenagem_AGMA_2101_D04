@@ -176,7 +176,6 @@ j05bl53iaio.html
 subsectionAnlise_de_.html
 figures/Fig30
 Na_Figura_31_observa.html
-figures/image35
 Ambos_testes_Figuras.html
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
