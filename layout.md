@@ -9,7 +9,6 @@ i5rmk0vsrg8.tex
 longtable_ll_toprule1.html
 figures/Fig11
 1ahpj56qcng.html
-Fontes_Adaptado_de_B.html
 slrrs6q20to.tex
 longtable_ll_toprule2.html
 Onde__emphW_textsupe.html
