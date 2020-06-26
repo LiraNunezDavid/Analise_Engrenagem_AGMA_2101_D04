@@ -26,6 +26,8 @@ airtdr4o8i8.tex
 Quando_a_engrenagem_.html
 ngc66blieqg.tex
 ivv9hs5tr5.html
+68hf6tjocp.tex
+aol7fuon5eo.html
 figures/image6
 As_curvas_podem_ser.html
 longtable_ll_toprule4.html
