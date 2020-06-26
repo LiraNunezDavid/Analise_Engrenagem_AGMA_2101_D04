@@ -40,6 +40,7 @@ figures/image7
 beginquote_Fonte_Ada.html
 data/image8/image8.emf
 beginquote_Fonte_Ada1.html
+fvf0oah8qvo.tex
 longtable_ll_toprule6.html
 Onde__K_textHmc__fat.html
 figures/image9
