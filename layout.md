@@ -72,6 +72,8 @@ qbt489o1pdg.tex
 2bubd7i32qg.html
 9veqv1fvad8.tex
 dqsvb3b9q3g.html
+f3lal7bbhfo.tex
+c2eerck1c0o.html
 Tambm_pode_ser_encon.html
 figures/image15
 subsectiontexorpdfst.html
