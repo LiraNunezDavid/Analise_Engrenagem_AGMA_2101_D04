@@ -100,7 +100,6 @@ longtable_ll_toprule15.html
 54t170saaio.tex
 c7katniem2g.html
 Onde__B__000075.html
-figures/image19
 subsubsectiontexorpd1.html
 longtable_l_toprule_.html
 Nota_1_s_vezes.html
