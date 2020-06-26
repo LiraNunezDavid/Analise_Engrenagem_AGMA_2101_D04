@@ -15,6 +15,7 @@ Onde__emphW_textsupe.html
 mknjelgvpko.html
 Para_encontrar_o_fat.html
 Tabela_2__Fator.html
+tedei8iape8.html
 data/image4/image4.emf
 Tabela_3__Fator.html
 figures/image5
