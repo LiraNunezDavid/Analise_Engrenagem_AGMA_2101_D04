@@ -58,6 +58,7 @@ longtable_ll_toprule7.html
 Os_valores_a_serem.html
 figures/Fig9
 Segundo_Mott_2013_ca.html
+figures/Fig10
 Fonte_adaptado_de_Mo.html
 r6jh5v35l38.tex
 longtable_ll_toprule8.html
