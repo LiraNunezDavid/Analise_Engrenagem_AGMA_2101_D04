@@ -151,6 +151,7 @@ Para_encontrar_a_lar.html
 k1gp5g7fkc.tex
 longtable_ll_toprule21.html
 Conhecida_a_rotao_do.html
+bf4b9ohbtv8.tex
 longtable_ll_toprule22.html
 Dessa_forma_substitu.html
 longtable_llll_topru.html
