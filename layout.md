@@ -141,7 +141,6 @@ figures/Fig26
 Figura_27__nmero.html
 figures/Fig27
 Os_nmeros_de_tenso.html
-figures/image32
 Para_encontrar_uma_d.html
 figures/image33
 Fonte_Adaptado_de_Mo1.html
