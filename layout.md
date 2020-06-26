@@ -49,7 +49,6 @@ brace_K_textHmcleft_.html
 beginquote_Fonte_Ada2.html
 figures/Fig6
 Fonte_Adaptado_de_AG.html
-figures/image11
 Dependendo_se_a_posi.html
 figures/image12
 A_norma_AGMA_no.html
