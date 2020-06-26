@@ -22,6 +22,7 @@ Tabela_3__Fator.html
 figures/image5
 textbfFonte_Adaptado.html
 longtable_ll_toprule3.html
+airtdr4o8i8.tex
 Quando_a_engrenagem_.html
 figures/image6
 As_curvas_podem_ser.html
