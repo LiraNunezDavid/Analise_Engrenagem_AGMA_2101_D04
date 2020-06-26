@@ -87,7 +87,6 @@ Para_encontrar_o_nme.html
 ec28dgk8il8.tex
 longtable_ll_toprule13.html
 Onde__n_L__o.html
-figures/image16
 Outra_forma_de_encon.html
 figures/image17
 subsubsectiontexorpd.html
