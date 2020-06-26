@@ -121,6 +121,7 @@ Onde__sigma_F__a.html
 ovmnsfki09o.tex
 longtable_ll_toprule17.html
 Onde__empht_textsubs.html
+figures/Fig21
 Fonte_Adaptado_de_Mo.html
 figures/image26
 subsectiontexorpdfst1.html
