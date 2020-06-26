@@ -34,6 +34,7 @@ As_curvas_podem_ser.html
 longtable_ll_toprule4.html
 Se_a_largura_da.html
 longtable_ll_toprule5.html
+hob1hj1gp4o.tex
 Para_encontrar_a_con.html
 figures/image7
 beginquote_Fonte_Ada.html
