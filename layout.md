@@ -163,6 +163,7 @@ figures/Tab5
 th2d3j79c5o.html
 subsectionTenso_ao_c.html
 longtable_cccc_topru.html
+figures/Tab6
 01pbehnh44.html
 subsectionFator_de_s.html
 longtable_cccc_topru1.html
