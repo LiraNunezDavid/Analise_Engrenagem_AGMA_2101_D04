@@ -158,6 +158,8 @@ Conhecida_a_rotao_do.html
 bf4b9ohbtv8.tex
 longtable_ll_toprule22.html
 Dessa_forma_substitu.html
+figures/Tab5
+86r5u7h5k8o.html
 th2d3j79c5o.html
 subsectionTenso_ao_c.html
 longtable_cccc_topru.html
