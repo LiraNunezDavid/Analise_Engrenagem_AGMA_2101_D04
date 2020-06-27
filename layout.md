@@ -190,6 +190,8 @@ figures/Tab10
 36juer81nq8.html
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
+figures/Tab11
+tr98hphcav.html
 longtable_lll_toprul1.html
 Na_Tabela_11_so.html
 figures/Fig32
