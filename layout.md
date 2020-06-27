@@ -179,6 +179,7 @@ figures/Tab8
 laoumotlioo.html
 subsectionFator_de_s1.html
 longtable_cccc_topru3.html
+figures/Tab9
 j05bl53iaio.html
 subsectionAnlise_de_.html
 figures/Fig30
