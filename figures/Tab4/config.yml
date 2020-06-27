@@ -20,3 +20,4 @@ grid:
     folder_url: "/users/336192/articles/462559/master/folder/figures/Tab4"
     treatFirstLineAsHeader: true
     fontSize: large
+    maxRows: '1'
