@@ -166,6 +166,7 @@ longtable_cccc_topru.html
 figures/Tab6
 01pbehnh44.html
 subsectionFator_de_s.html
+figures/Tab7
 longtable_cccc_topru1.html
 mvv1galldlo.html
 subsectionTenso__fle.html
