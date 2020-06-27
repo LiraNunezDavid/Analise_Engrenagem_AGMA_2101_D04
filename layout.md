@@ -20,6 +20,8 @@ Para_encontrar_o_fat.html
 figures/Tab2
 a9ft619jung.html
 Tabela_3__Fator.html
+figures/Tab3
+b4uulmbuslo.html
 pm6ij2atfng.html
 figures/Fig2
 textbfFonte_Adaptado.html
