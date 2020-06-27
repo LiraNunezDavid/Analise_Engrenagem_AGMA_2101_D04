@@ -174,6 +174,8 @@ sr2j12b97r.tex
 longtable_ll_toprule23.html
 Considerase_o_furo_d.html
 longtable_cccc_topru2.html
+figures/Tab8
+7orsjgbv558.html
 laoumotlioo.html
 subsectionFator_de_s1.html
 longtable_cccc_topru3.html
