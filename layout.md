@@ -104,7 +104,6 @@ c7katniem2g.html
 Onde__B__000075.html
 figures/Fig15
 subsubsectiontexorpd1.html
-longtable_l_toprule_.html
 figures/Tab4
 Nota_1_s_vezes.html
 figures/Fig16
