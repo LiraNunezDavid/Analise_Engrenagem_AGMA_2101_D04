@@ -19,3 +19,4 @@ grid:
     url: "/users/336192/articles/462559/master/file/figures/Tab4/Tab4.xlsx"
     folder_url: "/users/336192/articles/462559/master/folder/figures/Tab4"
     treatFirstLineAsHeader: true
+    fontSize: large
