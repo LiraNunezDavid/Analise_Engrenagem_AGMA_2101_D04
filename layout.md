@@ -15,7 +15,6 @@ slrrs6q20to.tex
 Onde__emphW_textsupe.html
 9l1a4rnric.tex
 Para_encontrar_o_fat.html
-figures/Quadro2
 figures/Tab3
 pm6ij2atfng.html
 figures/Fig2
