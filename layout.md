@@ -17,6 +17,8 @@ Onde__emphW_textsupe.html
 Para_encontrar_o_fat.html
 figures/Quadro2
 pm6ij2atfng.html
+figures/Quadro3
+j1vum107uqg.html
 figures/Fig2
 textbfFonte_Adaptado.html
 longtable_ll_toprule3.html
