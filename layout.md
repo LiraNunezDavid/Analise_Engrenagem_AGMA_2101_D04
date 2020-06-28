@@ -12,7 +12,6 @@ longtable_ll_toprule1.html
 figures/Fig11
 1ahpj56qcng.html
 slrrs6q20to.tex
-longtable_ll_toprule2.html
 Onde__emphW_textsupe.html
 9l1a4rnric.tex
 Para_encontrar_o_fat.html
