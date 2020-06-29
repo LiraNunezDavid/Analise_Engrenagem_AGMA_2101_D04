@@ -158,6 +158,5 @@ Na_Tabela_10_so.html
 figures/Tab11
 Na_Tabela_11_so.html
 figures/Fig32
-nkkkouuuuno.html
 untitled.html
 sectionConcluso_labe.html
