@@ -131,7 +131,6 @@ sectionConcepo_e_Des.html
 n2475fdkabo.tex
 Para_encontrar_a_lar.html
 k1gp5g7fkc.tex
-longtable_ll_toprule21.html
 Conhecida_a_rotao_do.html
 bf4b9ohbtv8.tex
 longtable_ll_toprule22.html
