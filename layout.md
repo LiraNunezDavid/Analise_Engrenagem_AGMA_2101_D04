@@ -41,7 +41,6 @@ beginquote_Fonte_Ada.html
 figures/Fig4
 beginquote_Fonte_Ada1.html
 fvf0oah8qvo.tex
-longtable_ll_toprule6.html
 Onde__K_textHmc__fat.html
 figures/Fig5
 brace_K_textHmcleft_.html
