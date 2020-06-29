@@ -147,7 +147,6 @@ ved179jkr08.tex
 longtable_cccc_topru2.html
 subsectionFator_de_s1.html
 n5t1v6a54jo.tex
-j05bl53iaio.html
 subsectionAnlise_de_.html
 figures/Fig30
 Na_Figura_31_observa.html
