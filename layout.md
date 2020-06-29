@@ -82,7 +82,6 @@ Outra_forma_de_encon.html
 figures/Fig13
 subsubsectiontexorpd.html
 vaaovj9meoo.tex
-longtable_ll_toprule14.html
 Se_fracH_B1H_B2__12.html
 figures/Fig14
 subparagraphEndureci.html
