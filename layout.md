@@ -154,7 +154,6 @@ figures/Fig31
 Ambos_testes_Figuras.html
 e833hcq6rug.tex
 5fmvcpqcnag.html
-figures/Tab10
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
 figures/Tab11
