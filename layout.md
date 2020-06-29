@@ -153,7 +153,6 @@ Na_Figura_31_observa.html
 figures/Fig31
 Ambos_testes_Figuras.html
 figures/Tab10
-36juer81nq8.html
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
 figures/Tab11
