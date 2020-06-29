@@ -85,7 +85,6 @@ vaaovj9meoo.tex
 Se_fracH_B1H_B2__12.html
 figures/Fig14
 subparagraphEndureci.html
-longtable_ll_toprule15.html
 54t170saaio.tex
 c7katniem2g.html
 Onde__B__000075.html
