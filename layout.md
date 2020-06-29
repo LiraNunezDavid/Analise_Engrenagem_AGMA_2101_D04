@@ -124,7 +124,6 @@ NOTAS__1_Dureza_equi.html
 figures/Fig25
 Figura_26__nmero.html
 figures/Fig26
-Figura_27__nmero.html
 figures/Fig27
 Os_nmeros_de_tenso.html
 figures/Fig28
