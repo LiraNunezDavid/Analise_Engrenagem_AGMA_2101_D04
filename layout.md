@@ -27,6 +27,8 @@ ngc66blieqg.tex
 ivv9hs5tr5.html
 68hf6tjocp.tex
 aol7fuon5eo.html
+figures/Quadro4
+a7ah5blplmg.html
 figures/image6
 As_curvas_podem_ser.html
 5dhpfmmr7so.tex
