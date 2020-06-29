@@ -134,6 +134,7 @@ k1gp5g7fkc.tex
 Conhecida_a_rotao_do.html
 bf4b9ohbtv8.tex
 Dessa_forma_substitu.html
+2f76hju65ho.tex
 figures/Tab5
 86r5u7h5k8o.html
 th2d3j79c5o.html
