@@ -135,7 +135,6 @@ Conhecida_a_rotao_do.html
 bf4b9ohbtv8.tex
 Dessa_forma_substitu.html
 2f76hju65ho.tex
-86r5u7h5k8o.html
 th2d3j79c5o.html
 subsectionTenso_ao_c.html
 longtable_cccc_topru.html
