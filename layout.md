@@ -157,7 +157,6 @@ e833hcq6rug.tex
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
 irucbft4m4.tex
-figures/Tab11
 Na_Tabela_11_so.html
 figures/Fig32
 untitled.html
