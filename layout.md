@@ -76,7 +76,6 @@ Onde__S_H__o.html
 t1er0c4cj1o.tex
 Para_encontrar_o_nme.html
 ec28dgk8il8.tex
-longtable_ll_toprule13.html
 Onde__n_L__o.html
 figures/Fig12
 Outra_forma_de_encon.html
