@@ -30,7 +30,6 @@ aol7fuon5eo.html
 figures/Quadro4
 As_curvas_podem_ser.html
 5dhpfmmr7so.tex
-longtable_ll_toprule4.html
 Se_a_largura_da.html
 longtable_ll_toprule5.html
 hob1hj1gp4o.tex
