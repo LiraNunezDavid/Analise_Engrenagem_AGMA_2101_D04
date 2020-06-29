@@ -59,7 +59,6 @@ Fonte_adaptado_de_Mo.html
 r6jh5v35l38.tex
 Onde__emphCtextsubsc.html
 g2u6drkum78.tex
-longtable_ll_toprule9.html
 fgalvviu35o.tex
 r36ck6mbd9g.html
 phrpdcpkg2.tex
