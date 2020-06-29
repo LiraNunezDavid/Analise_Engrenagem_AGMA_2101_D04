@@ -148,7 +148,6 @@ longtable_cccc_topru2.html
 subsectionFator_de_s1.html
 n5t1v6a54jo.tex
 longtable_cccc_topru3.html
-figures/Tab9
 j05bl53iaio.html
 subsectionAnlise_de_.html
 figures/Fig30
