@@ -89,6 +89,7 @@ subparagraphEndureci.html
 Onde__B__000075.html
 figures/Fig15
 subsubsectiontexorpd1.html
+d4bkg0mh448.tex
 figures/Tab4
 Nota_1_s_vezes.html
 figures/Fig16
