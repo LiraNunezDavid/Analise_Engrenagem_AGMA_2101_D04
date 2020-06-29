@@ -99,7 +99,6 @@ figures/Fig18
 5_O_emph_textsubscri.html
 figures/Fig19
 Figura_20__nmero.html
-954e6hm7gj.html
 figures/Fig20
 subsectionResistenci.html
 ueg8r1r77.tex
