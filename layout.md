@@ -139,7 +139,6 @@ subsectionTenso_ao_c.html
 8a0q41kj69g.tex
 subsectionFator_de_s.html
 pgbl4iqrkkg.tex
-longtable_cccc_topru1.html
 subsectionTenso__fle.html
 sr2j12b97r.tex
 longtable_ll_toprule23.html
