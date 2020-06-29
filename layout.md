@@ -156,7 +156,6 @@ figures/Tab10
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
 figures/Tab11
-longtable_lll_toprul1.html
 Na_Tabela_11_so.html
 figures/Fig32
 nkkkouuuuno.html
