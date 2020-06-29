@@ -133,7 +133,6 @@ Para_encontrar_a_lar.html
 k1gp5g7fkc.tex
 Conhecida_a_rotao_do.html
 bf4b9ohbtv8.tex
-longtable_ll_toprule22.html
 Dessa_forma_substitu.html
 figures/Tab5
 86r5u7h5k8o.html
