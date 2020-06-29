@@ -138,6 +138,7 @@ Dessa_forma_substitu.html
 subsectionTenso_ao_c.html
 8a0q41kj69g.tex
 subsectionFator_de_s.html
+pgbl4iqrkkg.tex
 figures/Tab7
 longtable_cccc_topru1.html
 subsectionTenso__fle.html
