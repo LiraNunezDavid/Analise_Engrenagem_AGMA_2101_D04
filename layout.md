@@ -152,6 +152,8 @@ figures/Fig30
 Na_Figura_31_observa.html
 figures/Fig31
 Ambos_testes_Figuras.html
+e833hcq6rug.tex
+5fmvcpqcnag.html
 figures/Tab10
 longtable_lll_toprul.html
 Na_Tabela_10_so.html
