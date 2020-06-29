@@ -28,7 +28,6 @@ ivv9hs5tr5.html
 68hf6tjocp.tex
 aol7fuon5eo.html
 figures/Quadro4
-a7ah5blplmg.html
 As_curvas_podem_ser.html
 5dhpfmmr7so.tex
 longtable_ll_toprule4.html
