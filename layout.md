@@ -129,7 +129,6 @@ Fonte_Adaptado_de_Mo1.html
 sectionAspectos_Meto.html
 sectionConcepo_e_Des.html
 n2475fdkabo.tex
-longtable_ll_toprule20.html
 Para_encontrar_a_lar.html
 k1gp5g7fkc.tex
 longtable_ll_toprule21.html
