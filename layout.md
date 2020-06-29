@@ -137,7 +137,6 @@ Dessa_forma_substitu.html
 2f76hju65ho.tex
 subsectionTenso_ao_c.html
 8a0q41kj69g.tex
-figures/Tab6
 01pbehnh44.html
 subsectionFator_de_s.html
 figures/Tab7
