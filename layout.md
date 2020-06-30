@@ -13,6 +13,7 @@ figures/Fig11
 1ahpj56qcng.html
 slrrs6q20to.tex
 Onde__emphW_textsupe.html
+2blgpurqml.html
 9l1a4rnric.tex
 Para_encontrar_o_fat.html
 figures/Quadro2
@@ -54,7 +55,6 @@ longtable_ll_toprule7.html
 Os_valores_a_serem.html
 figures/Fig9
 Segundo_Mott_2013_ca.html
-figures/Fig10
 Fonte_adaptado_de_Mo.html
 r6jh5v35l38.tex
 Onde__emphCtextsubsc.html
