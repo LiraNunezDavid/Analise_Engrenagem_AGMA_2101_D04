@@ -154,7 +154,6 @@ Na_Figura_31_observa.html
 figures/Fig31
 Ambos_testes_Figuras.html
 e833hcq6rug.tex
-5fmvcpqcnag.html
 Na_Tabela_10_so.html
 irucbft4m4.tex
 Na_Tabela_11_so.html
