@@ -146,7 +146,6 @@ sr2j12b97r.tex
 longtable_ll_toprule23.html
 Considerase_o_furo_d.html
 ved179jkr08.tex
-longtable_cccc_topru2.html
 subsectionFator_de_s1.html
 n5t1v6a54jo.tex
 subsectionAnlise_de_.html
