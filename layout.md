@@ -16,7 +16,6 @@ Onde__emphW_textsupe.html
 figures/Fig10
 7ak2pe5uu78.html
 2blgpurqml.html
-Para_encontrar_o_fat.html
 g4ap7sbh24o.tex
 dgf3omda098.html
 figures/Quadro2
