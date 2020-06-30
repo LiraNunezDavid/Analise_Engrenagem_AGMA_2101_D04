@@ -55,7 +55,6 @@ longtable_ll_toprule7.html
 Os_valores_a_serem.html
 figures/Fig9
 Segundo_Mott_2013_ca.html
-Fonte_adaptado_de_Mo.html
 r6jh5v35l38.tex
 Onde__emphCtextsubsc.html
 g2u6drkum78.tex
