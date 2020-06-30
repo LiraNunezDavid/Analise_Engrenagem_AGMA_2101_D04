@@ -96,6 +96,7 @@ figures/Fig16
 subsubsectiontexorpd2.html
 figures/Fig17
 NOTAS__1_Dureza_no.html
+tmfjpiam8so.html
 figures/Fig18
 5_O_emph_textsubscri.html
 figures/Fig19
