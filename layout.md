@@ -14,7 +14,6 @@ figures/Fig11
 slrrs6q20to.tex
 Onde__emphW_textsupe.html
 figures/Fig10
-teoe0ln13h.html
 7ak2pe5uu78.html
 2blgpurqml.html
 9l1a4rnric.tex
