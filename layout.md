@@ -50,7 +50,6 @@ figures/Fig6
 Fonte_Adaptado_de_AG.html
 figures/Fig7
 Dependendo_se_a_posi.html
-um6ia3bdhog.tex
 g4hdmou2do.html
 figures/Fig8
 A_norma_AGMA_no.html
