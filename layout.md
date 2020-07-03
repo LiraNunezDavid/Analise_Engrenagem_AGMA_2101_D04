@@ -9,7 +9,6 @@ das988skrh.tex
 longtable_ll_toprule.html
 i5rmk0vsrg8.tex
 longtable_ll_toprule1.html
-bpo1g1a0isg.tex
 figures/Fig11
 1ahpj56qcng.html
 slrrs6q20to.tex
