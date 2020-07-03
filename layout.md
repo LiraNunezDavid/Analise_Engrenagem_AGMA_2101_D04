@@ -128,7 +128,6 @@ Os_nmeros_de_tenso.html
 figures/Fig28
 Para_encontrar_uma_d.html
 figures/Fig29
-Fonte_Adaptado_de_Mo1.html
 sectionAspectos_Meto.html
 sectionConcepo_e_Des.html
 n2475fdkabo.tex
